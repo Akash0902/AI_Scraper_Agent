@@ -1,13 +1,7 @@
 # AI_Scraper_Agent
 This project demonstrates an AI-powered agent that performs web searches to retrieve specific information for entities in a dataset. It leverages LLMs for parsing search results, providing structured outputs via a user-friendly dashboard.
 
-### Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/AI-Agent-Information-Retrieval.git
-   cd AI-Agent-Information-Retrieval
-
-#pip install -r requirements.txt
+# pip install -r requirements.txt
 
 ### Usage
 - **Dashboard**:
